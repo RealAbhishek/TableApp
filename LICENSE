@@ -498,7 +498,14 @@ necessary.  Here is a sample; alter the names:
   library `Frob' (a library for tweaking knobs) written by James Random
   Hacker.
 
-  <signature of Ty Coon>, 1 April 1990
-  Ty Coon, President of Vice
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+### Qt Licensing
+
+This project uses the Qt framework, specifically the Qt Community Edition, which is licensed under the [GNU LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.html). Users of this project must comply with the terms of the LGPL for the Qt libraries. For more information, please visit [Qt Licensing](https://www.qt.io/licensing/).
+
+
 
 That's all there is to it!
